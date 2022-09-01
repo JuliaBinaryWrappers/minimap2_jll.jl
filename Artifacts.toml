@@ -1,0 +1,68 @@
+[[minimap2]]
+arch = "aarch64"
+git-tree-sha1 = "230b623ebd2684a4023a399f3554da672d83a016"
+os = "macos"
+
+    [[minimap2.download]]
+    sha256 = "f057ce913f12e546d2c80705d36b70cf0800989805509bc9a5dadc94bdf5c495"
+    url = "https://github.com/JuliaBinaryWrappers/minimap2_jll.jl/releases/download/minimap2-v2.24.0+0/minimap2.v2.24.0.aarch64-apple-darwin.tar.gz"
+[[minimap2]]
+arch = "aarch64"
+git-tree-sha1 = "c37b69f737c69947bd908845b761c90e51d2a2d6"
+libc = "glibc"
+os = "linux"
+
+    [[minimap2.download]]
+    sha256 = "e34947d7b1db46be72da728b16bf10ed8e0fe23c73e0075960a687fef13581cb"
+    url = "https://github.com/JuliaBinaryWrappers/minimap2_jll.jl/releases/download/minimap2-v2.24.0+0/minimap2.v2.24.0.aarch64-linux-gnu.tar.gz"
+[[minimap2]]
+arch = "aarch64"
+git-tree-sha1 = "e6dffd2f3d38d831a251c3b17e63cb06d253f624"
+libc = "musl"
+os = "linux"
+
+    [[minimap2.download]]
+    sha256 = "95ee629438ea18738aa75a6337e66399714ff49db8651d52adbe41567f81e885"
+    url = "https://github.com/JuliaBinaryWrappers/minimap2_jll.jl/releases/download/minimap2-v2.24.0+0/minimap2.v2.24.0.aarch64-linux-musl.tar.gz"
+[[minimap2]]
+arch = "x86_64"
+git-tree-sha1 = "f040be1c23402ba28eb6a05faadbf8fc2e6aa08f"
+os = "macos"
+
+    [[minimap2.download]]
+    sha256 = "5873915895cbb0231609af411ac1103cb396aea1dfeadde4e390c88e34abc708"
+    url = "https://github.com/JuliaBinaryWrappers/minimap2_jll.jl/releases/download/minimap2-v2.24.0+0/minimap2.v2.24.0.x86_64-apple-darwin.tar.gz"
+[[minimap2]]
+arch = "x86_64"
+git-tree-sha1 = "50d61c89cef0d4365c4d1f864839086261c03703"
+libc = "glibc"
+os = "linux"
+
+    [[minimap2.download]]
+    sha256 = "64347a0ee36322db9456916f918ebb40fc20635d7bd43c88a22bb5cd2cc69d27"
+    url = "https://github.com/JuliaBinaryWrappers/minimap2_jll.jl/releases/download/minimap2-v2.24.0+0/minimap2.v2.24.0.x86_64-linux-gnu.tar.gz"
+[[minimap2]]
+arch = "x86_64"
+git-tree-sha1 = "033248a9b003a288293814d115c63fea9c7f5927"
+libc = "musl"
+os = "linux"
+
+    [[minimap2.download]]
+    sha256 = "2950fa7ecd1cb277efef3123e29de556f7db98786752168ab90c7ba06e54cbea"
+    url = "https://github.com/JuliaBinaryWrappers/minimap2_jll.jl/releases/download/minimap2-v2.24.0+0/minimap2.v2.24.0.x86_64-linux-musl.tar.gz"
+[[minimap2]]
+arch = "x86_64"
+git-tree-sha1 = "01f9a4d435b2a9e3a00d6240f756404a1b20a206"
+os = "freebsd"
+
+    [[minimap2.download]]
+    sha256 = "3333f8774ce2a67c64f4f09005cc2cbeb8f255f5195ab93e082aa6a2a1c395f4"
+    url = "https://github.com/JuliaBinaryWrappers/minimap2_jll.jl/releases/download/minimap2-v2.24.0+0/minimap2.v2.24.0.x86_64-unknown-freebsd.tar.gz"
+[[minimap2]]
+arch = "x86_64"
+git-tree-sha1 = "7311f8d782730efdf7b7d1fe8586558e3f192bd0"
+os = "windows"
+
+    [[minimap2.download]]
+    sha256 = "e8c40e5c99fd274c98c077d739ddd93269ddb70d1cc057ab80dd23248379e10e"
+    url = "https://github.com/JuliaBinaryWrappers/minimap2_jll.jl/releases/download/minimap2-v2.24.0+0/minimap2.v2.24.0.x86_64-w64-mingw32.tar.gz"
